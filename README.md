@@ -1,4 +1,6 @@
 # demographic-data-analyzer
+#(demographic_output.jpg)
+
 import pandas as pd
 import numpy as np # Ensure numpy is imported
 
