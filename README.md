@@ -1,5 +1,6 @@
 # demographic-data-analyzer
 #![Screen shut of the project result](demographic_output.jpg)
+#This project analyzes demographic data from the 1994 Census database
 
 import pandas as pd
 import numpy as np # Ensure numpy is imported
